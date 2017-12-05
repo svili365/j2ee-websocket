@@ -20,7 +20,7 @@ WebSocket协议是基于TCP的一种新的网络协议。它实现了浏览器�
 JQuery.websocket增加了消息的类型，将消息拆分为{"type":"","message":""}。
 这样更灵活，可以根据业务类型，定义type，如：通知，公告，广播，发文等...
 
-![](https://github.com/cnsvili/j2ee-websocket/tree/master/src/main/webapp/demo/run-examples.png "运行示例")
+运行示例 --> run-examples.png 
 
 
 
